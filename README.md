@@ -32,7 +32,7 @@ To use this script, you will need:
 
    Navigate to the project directory:
 
-    cd MythoCVE
+    cd Xiulian_CVE
 
 Install the required dependencies:
 
