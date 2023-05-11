@@ -37,6 +37,9 @@ To use this script, you will need:
 Install the required dependencies:
 
     pip install -r requirements.txt
+Create a .env file in the root directory of the repository, and add your API keys as environment variables. Here is an example .env file:
+
+    API_KEY=xxxx-xxx-xxx-xxx-xxxxx
 
 ### Usage
 
